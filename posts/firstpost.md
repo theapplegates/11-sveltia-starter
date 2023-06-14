@@ -1,5 +1,5 @@
 ---
-title: This is the first example post
+title: This is the first example
 description: This is a sample meta description. If one is not present in your page/post's front matter, the default settings.description will be used instead.
 date: 2019-01-03
 author: Jane Doe
